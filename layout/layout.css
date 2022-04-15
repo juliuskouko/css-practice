@@ -1,0 +1,29 @@
+.templates {
+	height: 100px;
+	width: 100%;
+	background-color: hsl(0, 90%, 71%);
+	margin-bottom: 18px;
+}
+.template1 {
+	height: 30vh;
+	width: 100%;
+	background-color: hsl(0, 90%, 71%);
+	margin-bottom: 20px;
+}
+.flex-container {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+.flex-container div {
+	height: 30vh;
+	width: 30%;
+	background-color: hsl(0, 90%, 71%);
+	margin-bottom: 20px;
+}
+.template2 {
+	height: 15vh;
+	width: 100%;
+	background-color: hsl(0, 90%, 71%);
+	margin-bottom: 20px;
+}
